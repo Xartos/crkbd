@@ -1,3 +1,7 @@
+# Fork purpose
+
+The purpose of this fork is to replace the audio jack `ST-0277D00-052-142` for the v4 model and replace it with the `PJ-606-6A`
+
 # Corne keyboard
 
 The Corne keyboard is a split keyboard with 3x6 column staggered keys
